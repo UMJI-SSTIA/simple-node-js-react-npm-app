@@ -1,4 +1,10 @@
 # simple-node-js-react-npm-app
+This repo is forked for the purpose of testing your local npm environment. If you can build this simple demo project, the environment should be in a good shape.
+
+```shell
+// TODO
+```
+---
 
 This repository is for the
 [Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
